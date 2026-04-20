@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hana-temer-realestate.github.io/Real-estate-Temer-Hana/sitemap.xml
